@@ -1,2 +1,2 @@
-# docker-service
+# doctor-service
 Manages doctor-related data.
